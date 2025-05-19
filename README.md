@@ -9,7 +9,9 @@
 This repository contains the Turkish Translation of the HyperOS ROM Releases from [xiaomi.eu](https://xiaomi.eu/).
 
 Main Translator:
+
  andrefps :: andreffps@gmail.com
+ NothingNessN :: 
  
 
 
