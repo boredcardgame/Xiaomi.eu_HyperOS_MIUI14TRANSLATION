@@ -1,20 +1,21 @@
-[![MIUI13 logo](https://i.imgur.com/G9wfOYe.png)](https://xiaomi.eu/)
+[![HyperOS Logo](https://images.pling.com/img/00/00/76/08/82/2122478/img-20240117-090258.png)](https://xiaomi.eu/)
 
-# MA-XML-13-TURKISH
+# HyperOS/MIUI14 Translation
 
-[![Issue Stats](https://img.shields.io/github/issues-raw/suat074/MA-XML-13-TURKISH.svg)](https://github.com/suat074/MA-XML-13-TURKISH/issues)
+
 
 ## Introduction
 
-This repository contains the Turkish Translation of the MIUI Weekly ROM Releases from [xiaomi.eu](https://xiaomi.eu/community/forums/103/).
+This repository contains the Turkish Translation of the HyperOS ROM Releases from [xiaomi.eu](https://xiaomi.eu/).
 
 Main Translator:
-Suat SARIOĞLU (suatsari) :: suatsarioglu@gmail.com
+ andrefps :: andreffps@gmail.com
+ 
 
 
 ## Reporting issues
 
-Use the [Github Issue tracker](https://github.com/suat074/MA-XML-13-TURKISH/issues) to report a bug or the following [forum thread](https://xiaomi.eu/community/)
+Use the [Github Issue tracker](https://github.com/boredcardgame/Xiaomi.eu_HyperOS_MIUI14TRANSLATION/issues) to report a bug or the following [forum thread](https://xiaomi.eu/community/)
 
 
 ## Current improvements
@@ -28,13 +29,6 @@ Use the [Github Issue tracker](https://github.com/suat074/MA-XML-13-TURKISH/issu
 
 ## Changes will be added
 
-* This is MIUI 13.x Turkish Language Project supported all of models...
+* This is MIUI 14/HyperOS Turkish Language Project supported all of models...
 
 Check [Contributing to a project](https://guides.github.com/activities/forking) for further informations.
-
-## For all problems:
-
-- Administrator :: [ingbrzy](https://github.com/ingbrzy)
-- TR Translator : Suat SARIOĞLU :: suatsari (suatsarioglu@gmail.com)
-
-I want to thank everyone for their help, dont forget: "If you do not fly, run; If you do not run, walk; if you can not walk, crawl, but do not give up."
