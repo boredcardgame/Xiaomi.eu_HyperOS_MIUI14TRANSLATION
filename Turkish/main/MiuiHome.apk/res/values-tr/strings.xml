@@ -117,14 +117,14 @@
   <string name="app_already_exist">Uygulama zaten var</string>
   <string name="app_being_backup_message">Uygulama yedekleniyor</string>
   <string name="app_being_restored_message">Uygulama geri yüklendi</string>
-  <string name="app_category_books">Okuma</string>
+  <string name="app_category_books">Kitap</string>
   <string name="app_category_education">Eğitim</string>
   <string name="app_category_entertainment">Eğlence</string>
   <string name="app_category_finance">Finans</string>
   <string name="app_category_games">Oyunlar</string>
   <string name="app_category_health">Sağlık</string>
   <string name="app_category_lifestyle">Yaşam tarzı</string>
-  <string name="app_category_music_movie">TV &amp; Müzik</string>
+  <string name="app_category_music_movie">Müzik &amp; TV</string>
   <string name="app_category_news">Haberler</string>
   <string name="app_category_photos">Fotoğrafçılık</string>
   <string name="app_category_productivity">Verimlilik</string>
@@ -133,7 +133,7 @@
   <string name="app_category_sport">Spor</string>
   <string name="app_category_tools">Araçlar</string>
   <string name="app_category_travel">Seyahat</string>
-  <string name="app_category_vr">VR</string>
+  <string name="app_category_vr">Sanal gerçeklik</string>
   <string name="app_drawer_double_confirm_description">Bu, Ana ekran düzeninizi değiştirir. Bu değişiklikleri daha sonra Ayarlar\'dan geri alabilirsiniz.</string>
   <string name="app_drawer_double_confirm_title">Dikkat</string>
   <string name="app_drawer_feature_description">Uygulama çekmecesi, tüm uygulamalarınızı düzenlemek için mükemmel bir araçtır. Uygulamaları otomatik olarak kategorilere ayırın ve ihtiyacınız olan her şeyi anında bulun!</string>
@@ -142,8 +142,8 @@
   <string name="app_drawer_tip_title">İçerik akışını Uygulama çekmecesiyle değiştirdik.</string>
   <string name="app_install_state">Yüklendi</string>
   <string name="application_name">Sistem başlatıcısı</string>
-  <string name="apply">Ayarla</string>
-  <string name="apply_action">Ayarla</string>
+  <string name="apply">Uygula</string>
+  <string name="apply_action">Uygula</string>
   <string name="apply_as_lock_screen">Kilit Ekranı olarak ayarla</string>
   <string name="apply_as_wallpaper">Ana ekran olarak ayarla</string>
   <string name="apply_both">Her ikisine de</string>
@@ -221,7 +221,7 @@
   <string name="common_home_search_delete_cancle">İptal</string>
   <string name="common_home_search_delete_confirm">Sil</string>
   <string name="common_home_search_delete_content">Sildikten sonra Ana ekranda arama çubuğunu kullanarak öğe arayamazsınız. Yine de silinsin mi?</string>
-  <string name="configure_wallpaper">Ayarlar</string>
+  <string name="configure_wallpaper">Duvar kağıdını yapılandır</string>
   <string name="confirm_btn_label">Tamam</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Klonlu uygulamalar bunlarla birlikte kaldırılacak.</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">Klonlu uygulama bununla birlikte kaldırılacak.</string>
